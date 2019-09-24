@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>BlitzkriegSoftware/Stuart Williams</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Blitzkrieg Software</Company>
+    <Description>ADO.NET Wrappers for PostgreSQL using the very good NuGet package:
+
+ Npgsql</Description>
+    <Copyright>(c) 2019 BlitzkriegSoftware/Stuart Williams</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageIconUrl>http://blitzkriegsoftware.net/Images/Logo/blizkrieglogo100_60.jpg</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/BlitzkriegSoftware/PgSqlHelper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BlitzkriegSoftware/PgSqlHelper</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>.NET, PostgreSQL, Helpers, Npgsql</PackageTags>
+    <PackageReleaseNotes>1st Version</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\code\blitz\PgSqlHelper\BlitzkriegSoftware.PgSql\BlitzkriegSoftware.PgSql.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
+    <PackageReference Include="Npgsql" Version="4.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
