@@ -3,6 +3,8 @@ ADO.NET Wrappers for PostgreSQL using the very good NuGet package:
 
 > Npgsql
 
+[API Documentation](https://github.com/BlitzkriegSoftware/PgSqlHelper/blob/master/BlitzkriegSoftware.PgSql/BlitzkriegSoftware.PgSql.md)
+
 ## Methods and helpers ##
 
 * ExecuteSqlWithParametersNoReturn()
