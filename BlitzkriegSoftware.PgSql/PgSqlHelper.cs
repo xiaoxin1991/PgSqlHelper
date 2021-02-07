@@ -161,7 +161,7 @@ namespace BlitzkriegSoftware.PgSql
                 if ((!string.IsNullOrEmpty(workText)) && (workText.Length > 1))
                 {
                     workText = workText.Trim();
-                    workText = workText.Substring(0, workText.Length - 1); // Take off last listDelimiter
+                    workText = workText[0..^1]; // Take off last listDelimiter
                 }
             }
             return workText;

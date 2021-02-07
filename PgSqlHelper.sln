@@ -5,11 +5,12 @@ VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB974B53-2E6F-4BA3-9509-E0A31DDECCD7}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlitzkriegSoftware.PgSql", "BlitzkriegSoftware.PgSql\BlitzkriegSoftware.PgSql.csproj", "{DF62EFE9-354B-492B-877C-A9BE71BC8F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlitzkriegSoftware.PgSql", "BlitzkriegSoftware.PgSql\BlitzkriegSoftware.PgSql.csproj", "{DF62EFE9-354B-492B-877C-A9BE71BC8F38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
