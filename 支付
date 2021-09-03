@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T08:13:49.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="36oVbC1x5Y6v-rks_Z-g" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T08:56:14.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="T1ckXhcns6lwIhfo7Jxd" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2317" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RwLb1c08jsarFGOHroM8-72" value="支付前置机-devops&lt;br&gt;一键部署&lt;br&gt;包含 iis、环境、web服务、同步小程序、redis、更新程序&lt;br&gt;（开机启动、服务守护等）" style="shape=card;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="90" width="250" height="120" as="geometry" />
+          <mxGeometry x="610" y="90" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
