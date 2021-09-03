@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T03:07:28.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="fsn6-YRibAClWo7Cy4Gv" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T03:09:39.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="1ICE5-NI81yS_vt7wEyd" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="827" y="372" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RwLb1c08jsarFGOHroM8-65" value="考虑取消redis" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-180" y="292.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="-200" y="412" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RwLb1c08jsarFGOHroM8-67" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=12;endSize=7.01;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -182,7 +182,7 @@
           <mxGeometry x="97.5" y="450" width="682.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RwLb1c08jsarFGOHroM8-71" value="考虑取消redis&lt;br&gt;采用变量池加文本存储支付配置信息&lt;br&gt;订单数据直接接口访问&lt;br&gt;本地文本存储" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="332" width="220" height="80" as="geometry" />
+          <mxGeometry x="-240" y="451.5" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
