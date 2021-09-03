@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T03:10:37.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Fg6UJOF35Jur-D1vdD1d" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T03:31:40.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XYz-oIeA8RSFmY4P-O4T" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2317" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -187,7 +187,10 @@
           <mxGeometry x="97.5" y="450" width="682.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RwLb1c08jsarFGOHroM8-71" value="考虑取消redis&lt;br&gt;采用变量池加文本存储支付配置信息&lt;br&gt;订单数据直接接口访问&lt;br&gt;本地文本存储" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-240" y="451.5" width="220" height="80" as="geometry" />
+          <mxGeometry x="-240" y="456.5" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RwLb1c08jsarFGOHroM8-72" value="支付前置机-devops&lt;br&gt;意见部署" style="shape=card;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="90" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
